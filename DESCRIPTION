@@ -1,0 +1,14 @@
+Package: SINDEXQ
+Type: Package
+Title: Single-Index Quantile Regression
+Version: 0.0.1
+Author: Tianhai Zu, TBD
+Maintainer: TBD(TBS@gmail.com)
+Description: TBD
+License: TBD
+Encoding: UTF-8
+LazyData: true
+Imports: stats,
+   quantreg,
+   KernSmooth
+RoxygenNote: 7.0.2

@@ -1,0 +1,2 @@
+devtools::document()
+devtools::install_github("kbroman/broman")
